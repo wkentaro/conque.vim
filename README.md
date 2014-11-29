@@ -47,3 +47,22 @@ Lisence
 Copyright (C) 2009-2011 Nico Raffo  
 Released under the MIT license  
 https://github.com/wkentaro/conque.vim/blob/master/LICENSE
+
+Installation
+---
+### NeoBundle (Recommended)
+1. Add the following configuration to your `.vimrc`.
+
+        NeoBundle 'wkentaro/conque.vim'
+
+2. Install with `:NeoBundleInstall`.
+
+### Manually
+1. Put all files under $VIM.
+
+### Pathogen
+1. If you prefer to install plugins using [Pathogen.vim](https://github.com/tpope/vim-pathogen).
+
+        $ cd ~/.vim/bundle
+        $ git clone https://github.com/wkentaro/conque.vim
+  
