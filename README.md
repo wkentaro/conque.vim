@@ -42,11 +42,6 @@ Use the `<F9>` key to send a visual selection from any buffer to the shell.
 
 For more help type :help ConqueTerm
 
-Lisence
----
-Copyright (C) 2009-2011 Nico Raffo  
-Released under the MIT license  
-https://github.com/wkentaro/conque.vim/blob/master/LICENSE
 
 Installation
 ---
@@ -65,4 +60,9 @@ Installation
 
         $ cd ~/.vim/bundle
         $ git clone https://github.com/wkentaro/conque.vim
-  
+
+Lisence
+---
+Copyright (C) 2009-2011 Nico Raffo  
+Released under the MIT license  
+https://github.com/wkentaro/conque.vim/blob/master/LICENSE
