@@ -62,8 +62,8 @@ Pathogen
 
 .. code-block:: sh
 
-  cd ~/.vim/bundle
-  git clone https://github.com/wkentaro/conque.vim
+  $ cd ~/.vim/bundle
+  $ git clone https://github.com/wkentaro/conque.vim
 
 Lisence
 ========
