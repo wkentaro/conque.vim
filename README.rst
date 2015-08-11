@@ -12,8 +12,8 @@ For more information https://code.google.com/p/conque/.
 
 Screenshots
 ===========
-.. image:: http://conque.googlecode.com/svn/wiki/screenshot/unix.jpg
-.. image:: http://conque.googlecode.com/svn/wiki/screenshot/windows.jpg
+.. image:: assets/unix.jpg
+.. image:: assets/windows.jpg
 
 Usage
 =====
