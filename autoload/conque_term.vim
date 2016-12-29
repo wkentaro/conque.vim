@@ -51,7 +51,7 @@ let g:ConqueTerm_Terminals = {}
 let s:hooks = { 'after_startup': [], 'buffer_enter': [], 'buffer_leave': [], 'after_keymap': [] }
 
 " required for session support
-if g:ConqueTerm_SessionSupport == 1
+if exists('g:ConqueTerm_SessionSupport') && g:ConqueTerm_SessionSupport == 1
     set sessionoptions+=globals
     try
         sil! let s:saved_terminals = eval(g:ConqueTerm_TerminalsString)
